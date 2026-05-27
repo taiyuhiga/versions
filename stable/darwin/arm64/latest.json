@@ -1,9 +1,9 @@
 {
-  "url": "https://downloads.buzzassist.ai/releases/1.109.53354/BuzzAssist-darwin-arm64.zip",
-  "name": "1.109.53354",
-  "version": "d523ac8211dd58225396c083598a89fb72dcf8ec",
-  "productVersion": "1.109.53354.0",
-  "hash": "e8de038b15b4492b8c11a31582e3282e04dd64c0",
-  "timestamp": "1779367501000",
-  "sha256hash": "81e85a448b39441ebae381345d5ef75c3f76cce8a44a4e879221d1cac005ff1f"
+  "url": "https://downloads.buzzassist.ai/releases/1.109.53544/BuzzAssist-darwin-arm64.zip?v=1.109.53544-r2",
+  "name": "1.109.53544",
+  "version": "ca3def9d235c7ef647eded2b21f4cda48e4c2dc2",
+  "productVersion": "1.109.53544.0",
+  "hash": "49128e7a8fe7376d639f5a75aa483cadee012a57",
+  "timestamp": "1779906431274",
+  "sha256hash": "4d954a94b350cacdf3d1d888ac071cffe562a093ee48b5258d1bd7cdbf201113"
 }
