@@ -1,9 +1,9 @@
 {
-  "url": "https://downloads.buzzassist.ai/releases/1.109.53601/BuzzAssist-win32-x64.exe?v=1.109.53601-r1",
-  "name": "1.109.53601",
-  "version": "4830b5cf5bb393136d96552288eec9b0e48f18f1",
-  "productVersion": "1.109.53601.0",
-  "hash": "5440f063e810f14cc67fd7268e8518c6cf974e18",
-  "timestamp": "1780115366951",
-  "sha256hash": "592e7ef903491067f35b54e4812cccca055a9caa3183fc41c7e6aad7ef034a2e"
+  "url": "https://downloads.buzzassist.ai/releases/1.109.53613/BuzzAssistUserSetup-x64-1.109.53613.exe",
+  "name": "1.109.53613",
+  "version": "10ddf318d1760660b0fc5062665dea90671fffa7",
+  "productVersion": "1.109.53613.0",
+  "hash": "dadae7ade656505b0f4e9dfe08e5fdc6d12bd2eb",
+  "timestamp": "1780154545854",
+  "sha256hash": "81660eab8cef16923a4ab1b99da663140333024b15ef0539346dbcf620d7b3a6"
 }
