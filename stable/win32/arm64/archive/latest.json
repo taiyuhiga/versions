@@ -1,9 +1,9 @@
 {
-  "url": "https://downloads.buzzassist.ai/releases/1.109.53613/BuzzAssist-win32-arm64-1.109.53613.zip",
-  "name": "1.109.53613",
-  "version": "10ddf318d1760660b0fc5062665dea90671fffa7",
-  "productVersion": "1.109.53613.0",
-  "hash": "ffef92c5bdd9270307e4fe03b91668b6b6ae5660",
-  "timestamp": "1780154540787",
-  "sha256hash": "7aff4644e010c3dc9bb770193e82f0e996f907c29dfc40e22374bc2bd7c13888"
+  "url": "https://downloads.buzzassist.ai/releases/1.109.53649/BuzzAssist-win32-arm64-1.109.53649.zip",
+  "name": "1.109.53649",
+  "version": "58fa421df667bcd8bb47d9c99dab7f721a4ab1ab",
+  "productVersion": "1.109.53649.0",
+  "hash": "f054c2c2341d1255b2ae2a5f4a80a02c1f46d65e",
+  "timestamp": "1780282643577",
+  "sha256hash": "a74d1d9e10f0b1a16d0c00b983bc036501256926b10e26cb8cb5292e5ac8d354"
 }
