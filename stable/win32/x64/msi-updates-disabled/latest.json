@@ -1,9 +1,9 @@
 {
-  "url": "https://downloads.buzzassist.ai/releases/1.109.53713/BuzzAssist-x64-updates-disabled-1.109.53713.msi",
-  "name": "1.109.53713",
-  "version": "5480f03b9c140f0fee0a8fd8b4bf4b9283f3f20e",
-  "productVersion": "1.109.53713.0",
-  "hash": "08e59486ea1ae4b976f854cd5c14d9b17c456887",
-  "timestamp": "1780516157803",
-  "sha256hash": "3e00ef91d65f222cee7db92940a3c96b8006a8582da4160981dac8a6120135b2"
+  "url": "https://downloads.buzzassist.ai/releases/1.109.53721/BuzzAssist-x64-updates-disabled-1.109.53721.msi",
+  "name": "1.109.53721",
+  "version": "394aad52a9ab3d9795e15a41733d01df01898811",
+  "productVersion": "1.109.53721.0",
+  "hash": "59fee6be001089dd456125bf2b7719b4e72a7446",
+  "timestamp": "1780541320603",
+  "sha256hash": "30323a4f96c4d26016edd565914c3b247604523a38867a0e1fb00d0e201963b6"
 }
