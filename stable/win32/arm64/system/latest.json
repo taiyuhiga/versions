@@ -1,9 +1,9 @@
 {
-  "url": "https://downloads.buzzassist.ai/releases/1.109.53724/BuzzAssistSetup-arm64-1.109.53724.exe",
-  "name": "1.109.53724",
-  "version": "22c80581b3a3daa8ff586c4d901ab088623b97ed",
-  "productVersion": "1.109.53724.0",
-  "hash": "cb40a28552718b97a24c23a7ee12a7151c9a173f",
-  "timestamp": "1780550410418",
-  "sha256hash": "317b2707c96821a7bfd732cd1a25a5de65c7448c7f145f6eba3c0f9823d3096c"
+  "url": "https://downloads.buzzassist.ai/releases/1.109.54333/BuzzAssistSetup-arm64-1.109.54333.exe",
+  "name": "1.109.54333",
+  "version": "b19ed23a834259aecbad07fdd6ffe5d5735b156f",
+  "productVersion": "1.109.54333.0",
+  "hash": "e216bf5efb644bbb69cd249ba121c4f1428d4f50",
+  "timestamp": "1782745700637",
+  "sha256hash": "19d7b5769762a178a7b88876df6e4c5fcb53a65828033d44005791fb7b41ff4c"
 }
